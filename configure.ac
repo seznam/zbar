@@ -25,7 +25,7 @@ dnl   - If any interfaces have been added since the last public release,
 dnl     then increment age.
 dnl   - If any interfaces have been removed since the last public release,
 dnl     then set age to 0. 
-AC_SUBST([LIB_VERSION], [3:0:3])
+AC_SUBST([LIB_VERSION], [2:0:2])
 AC_SUBST([RELDATE], [2017-04-11])
 
 dnl widget libraries use their own versioning.

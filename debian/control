@@ -3,7 +3,6 @@ Section: libs
 Priority: optional
 Maintainer: Debian QA Group <packages@qa.debian.org>
 Build-Depends:
- debhelper-compat (= 12),
  dh-exec (>= 0.3),
  dh-python,
  junit4,
